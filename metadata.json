@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Vice",
+  "description": "An open-world 3D Mumbai streets playground with realistic traffic, interactive NPC pedestrians, iconic vehicles, and city-wide high-stakes missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
